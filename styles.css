@@ -69,10 +69,12 @@
 .exercise5{
     columns: 3;
 }
-.exercise5 span{
+.footer-header{
+    display: block;
     margin: 0.75rem 0;
     font-size: 1.25rem;
 }
 .exercise5 p{
-    display: list-item;
+    display: block;
+    width: 200px
 }
