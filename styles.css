@@ -1,0 +1,10 @@
+.nav-container
+{
+    width: 100%;
+    max-width: 1024px;
+    margin: 0 auto;
+}
+
+.exercise1{
+    height: 400px;
+}
