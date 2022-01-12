@@ -75,6 +75,7 @@
     font-size: 1.25rem;
 }
 .exercise5 p{
+    margin-bottom: 5px;
     display: block;
     width: 200px
 }
