@@ -32,3 +32,15 @@
     height: 130px;
 
 }
+
+.exercise2{
+    gap: 30px;
+}
+.exercise2 span{
+    font-weight: bold;
+    font-size: 2rem;
+}
+.exercise3{
+    gap: 30px;
+
+}
